@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def CalApp(request):
+    return render(request, 'cal.html')
