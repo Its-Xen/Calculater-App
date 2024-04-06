@@ -13,3 +13,4 @@ Its Calculate App, Bild with django/html/Css .
 5. Access the web gallery at http://localhost:8000 or http://127.0.0.1:8000/
 
 # Screenshots : 
+<img src="SC.png" height="400" width="800">
